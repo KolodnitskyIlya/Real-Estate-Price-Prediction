@@ -6,4 +6,3 @@ Geekbrains AI/BigData Python for Data Science course competition
 В своем решении я получил $$R^2$$ = 0.75218. 
 
 Лучшая моя модель - LightGBM c применением Cross-validation KFold.
- 
